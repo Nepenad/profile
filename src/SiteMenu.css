@@ -1,0 +1,8 @@
+.siteMenu ul {
+    list-style: none;
+}
+
+.siteMenu li a {
+    padding: 0 10px;
+    text-decoration: none;
+}
