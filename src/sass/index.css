@@ -1,5 +1,19 @@
 /* Page loader */
 .loader_wrap {
-  width: 10.7rem;
+  width: 6.7rem;
+  text-decoration: underline;
+}
+
+.loader path {
+  stroke-width: 2;
+  stroke: gray;
+}
+
+.loader svg {
+  overflow: visible;
+  height: 100%;
+  /* Fix Safari rendering bug */
+  -webkit-transform: translateZ(0);
+          transform: translateZ(0);
 }
 /*# sourceMappingURL=index.css.map */

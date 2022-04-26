@@ -1,0 +1,15 @@
+Loading Preferences:
+
+Sites:
+https://www.wearehola.com/
+
+Solutions:
+https://greensock.com/forums/topic/18150-reveal-any-svg-shape-the-mask-way/
+https://greensock.com/forums/topic/25321-invalid-property-ease-set-to-0-missing-plugin-gsapregisterplugin/
+https://greensock.com/drawsvg/
+https://greensock.com/motionpath/
+https://greensock.com/forums/topic/22532-text-animation-gsap3/
+
+Tools:
+https://svg2jsx.com/
+https://danmarshall.github.io/google-font-to-svg-path/
