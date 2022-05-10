@@ -13,3 +13,6 @@ https://greensock.com/forums/topic/22532-text-animation-gsap3/
 Tools:
 https://svg2jsx.com/
 https://danmarshall.github.io/google-font-to-svg-path/
+
+React gsap
+https://bitworking.github.io/react-gsap/src-components-timeline

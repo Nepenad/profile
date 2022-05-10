@@ -5,16 +5,7 @@
     text-decoration: underline;
   }
 
-  path {
-    stroke-width: 2;
-    stroke: gray;
-  }
-
-  svg {
-    overflow: visible;
-    height: 100%;
-
-    /* Fix Safari rendering bug */
-    transform: translateZ(0);
+  &__text--2 {
+    text-indent: 100px;
   }
 }
